@@ -12,7 +12,7 @@
 
  
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+### 🙇 안녕하세요, Cloud-Engineer로 성장해나가고 있는 손채린입니다!
 
  
 
